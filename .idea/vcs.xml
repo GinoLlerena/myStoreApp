@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FCND-Term1-Starter-Kit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FormBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyToDoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReactWorthy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/advanced-css-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algorithms-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dynamicform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/essential-slick-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geektrustchanllenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hellorectangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/innerself" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/natoursreact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-snake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-spreadsheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-spreadsheet-gitlab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/three_octaves" vcs="Git" />
+  </component>
+</project>

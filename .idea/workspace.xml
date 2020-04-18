@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e1ec908-b07e-4185-9778-7548e4cd0310" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/CalculatorBrain.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/backdrop.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/category_tile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/unit_converter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/bundle.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/css/bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/data/california_housing_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/vendor.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/vendor.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/build/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/app/components/Vector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/app/main.react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/webpack/base.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/webpack/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/webpack/webpack.build.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/client/webpack/webpack.dev.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/ServerConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/constants/Contants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/errors/NotFoundError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/errors/UnauthorizedAccessError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/server/routes/ApiRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.xcodeproj/xcuserdata/ginollerena.xcuserdatad/xcschemes/Calculator.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.xcodeproj/xcuserdata/ginollerena.xcuserdatad/xcschemes/Calculator.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/build/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/build/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/build/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/build/vendor.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/build/vendor.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/build/vendor.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/build/vendor.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/client/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/components/FormContainer.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/client/app/components/FormContainer.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/components/common/ElementComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/components/common/FormBuilder.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/components/common/WrapperElement.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/mockdata/mockdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/app/utils/FormUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormBuilder/client/webpack/base.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/FormBuilder/client/webpack/base.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/vendor.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/vendor.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/vendor.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/LinearAlgebraGTRefreshCourse/build/vendor.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/Category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/category_route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/category_route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/hellorectangle/hellorectangle/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/build/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/build/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/vendor.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/build/vendor.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/build/vendor.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/build/vendor.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/client/app/components/SnakeContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/client/app/components/SnakeContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/client/app/main.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/client/app/main.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-snake/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-snake/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-spreadsheet/src/app/components/SpreadsheetBody.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-spreadsheet/src/app/components/SpreadsheetBody.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_octaves/react/three_octaves/src/components/commons/InputTextArea.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_octaves/react/three_octaves/src/components/internal/security/ChangePassword.jsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mysbp" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Calculator" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectId" id="1UQyTbwCIo7MIpWOVLy2nTpqzSw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e1ec908-b07e-4185-9778-7548e4cd0310" name="Default" comment="" />
+      <created>1461517916105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461517916105</updated>
+      <workItem from="1461517917361" duration="106000" />
+      <workItem from="1461518028308" duration="40000" />
+      <workItem from="1575303124918" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
